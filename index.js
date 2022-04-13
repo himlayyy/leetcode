@@ -1,0 +1,1 @@
+console.log("replace script src with the file you want to run");
